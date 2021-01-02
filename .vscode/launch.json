@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch subaaray_given_sum",
+            "request": "launch",
+            "mainClass": "subaaray_given_sum",
+            "projectName": "java practice_89accff5"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
